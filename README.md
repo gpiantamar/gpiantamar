@@ -25,7 +25,6 @@ A cada projeto e tarefa, dedico-me integralmente, sempre buscando superar os lim
 - Desenvolvimento Web com TypeScript
 - Java
 - Mysql
-- Back-end
 
 **📫 Como me encontrar**
 
