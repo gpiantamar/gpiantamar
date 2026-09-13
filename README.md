@@ -1,6 +1,16 @@
-# 👋 Olá, eu sou Guilherme Silva Piantamar!
+<div align="center">
 
-### 💻 Desenvolvedor Front-end Júnior | Estudante de Ciência da Computação
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Guilherme%20Silva%20Piantamar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Front-end%20Jr%20%7C%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://github.com/gpiantamar">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!;Front-end+%7C+React+%7C+TypeScript;Apaixonado+por+interfaces+bem+feitas;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=gpiantamar&style=for-the-badge&color=blueviolet&label=Visualizações+do+perfil)
+
+</div>
+
+<br>
 
 Sou estudante de **Ciência da Computação no UNIVEM** e desenvolvedor com experiência prática em **Front-end e implantação de e-commerce**.
 
@@ -20,6 +30,37 @@ Gosto de transformar ideias em interfaces funcionais, modernas e responsivas, se
 - 🌱 Atualmente aprimorando meus conhecimentos em **React, TypeScript e desenvolvimento Web**
 - 🚀 Interesse em desenvolvimento **Front-end e Full Stack**
 - 🤝 Interesse em aprender, colaborar e desenvolver projetos na prática
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gpiantamar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpiantamar&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=gpiantamar&theme=tokyonight&hide_border=true" />
+
+### 🔥 Gráfico de Atividade
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gpiantamar&theme=tokyo-night&hide_border=true" width="100%"/>
+
+### 🏆 Troféus
+
+<img src="https://github-profile-trophy.vercel.app/?username=gpiantamar&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 🐍 Contribuições da Semana
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gpiantamar/gpiantamar/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+</div>
+
+> ⚠️ **Esta imagem só aparece depois de você configurar o workflow abaixo pelo menos uma vez.** Antes disso, ela fica quebrada — não é um erro do README, é só a "fonte" da imagem que ainda não existe no seu repositório.
 
 ---
 
@@ -159,3 +200,5 @@ Estou aberto a **oportunidades profissionais, projetos e conexões na área de t
 </a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
